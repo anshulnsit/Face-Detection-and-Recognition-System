@@ -25,6 +25,6 @@
 
 <h2>Licence</h2>
 
-[MIT](https://github.com/anshulnsit/Face-Detection-and-Recognition-System/blob/master/LICENSE) Licence (c) [Anshul Chauhan](https://github.com/anshulnsit)
+[MIT](https://github.com/anshulnsit/Face-Detection-and-Recognition-System/blob/master/LICENSE) Licence &copy; [Anshul Chauhan](https://github.com/anshulnsit)
 
 Built with :heart: in python
