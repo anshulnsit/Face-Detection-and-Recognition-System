@@ -7,7 +7,7 @@
 </b>
 
 <h2>Steps to run</h2>
-<b>Installing OpenCV in Ubuntu(Optional) if you don't have installed</b>
+<b>(Optional)Installing OpenCV in Ubuntu if you don't have it installed</b>
 <pre>chmod +x opencv.sh
 ./opencv.sh
 </pre>
@@ -22,3 +22,9 @@
 <pre>chmod +x reset.sh
 ./reset.sh
 </pre>
+
+<h2>Licence</h2>
+
+[MIT](https://github.com/anshulnsit/Face-Detection-and-Recognition-System/blob/master/LICENSE) Licence (c) [Anshul Chauhan](https://github.com/anshulnsit)
+
+Built with :heart: in python
