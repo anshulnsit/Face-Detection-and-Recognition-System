@@ -1,8 +1,8 @@
 <h1>Face Detection and Recognition System</h1>
 
 <h2>Libraries required</h2>
-<b>1. OpenCV
-2. numpy
+<b>1. OpenCV<br>
+2. numpy<br>
 3. sqlite3
 </b>
 
