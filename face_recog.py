@@ -5,7 +5,7 @@ import sqlite3
 
 # instantiate the camera object and haar cascade
 cam = cv2.VideoCapture(0)
-face_cas = cv2.CascadeClassifier('/home/anshul/Desktop/Project/haarcascade_frontalface_default.xml')
+face_cas = cv2.CascadeClassifier('haarcascade_frontalface_default.xml') # Give full file path of classifier. Check in current folder
 
 # declare the type of font to be used on output window
 font = cv2.FONT_HERSHEY_SIMPLEX
