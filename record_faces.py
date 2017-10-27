@@ -6,7 +6,7 @@ import sqlite3
 cam = cv2.VideoCapture(0)
 
 # create a haar-cascade object for face detection
-face_cas = cv2.CascadeClassifier('/home/anshul/Desktop/Project/haarcascade_frontalface_default.xml')
+face_cas = cv2.CascadeClassifier('haarcascade_frontalface_default.xml') # Give full file path of classifier file
 
 # create a placeholder for storing the data
 data = []
