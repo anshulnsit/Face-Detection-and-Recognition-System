@@ -7,7 +7,7 @@
 </b>
 
 <h2>Steps to run</h2>
-<b>(Optional)Installing OpenCV in Ubuntu if you don't have it installed</b>
+<b>(Optional) Installing OpenCV in Ubuntu if you don't have it installed</b>
 <pre>chmod +x opencv.sh
 ./opencv.sh
 </pre>
